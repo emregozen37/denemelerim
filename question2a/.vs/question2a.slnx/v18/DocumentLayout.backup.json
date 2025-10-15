@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\source\\repos\\veriyaplab\\152120211132_Yunus_Emre_Gozen\\question2a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B8DCC0-EA69-474D-B48F-0D5C61658080}|question2a.vcxproj|C:\\Users\\Monster\\source\\repos\\veriyaplab\\152120211132_Yunus_Emre_Gozen\\question2a\\question2a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84B8DCC0-EA69-474D-B48F-0D5C61658080}|question2a.vcxproj|solutionrelative:question2a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "question2a.cpp",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\veriyaplab\\152120211132_Yunus_Emre_Gozen\\question2a\\question2a.cpp",
+              "RelativeDocumentMoniker": "question2a.cpp",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\veriyaplab\\152120211132_Yunus_Emre_Gozen\\question2a\\question2a.cpp",
+              "RelativeToolTip": "question2a.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T12:58:09.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
