@@ -3,6 +3,21 @@
 
 #include <iostream>
 using namespace std;
+int tarray(int arr[], int n) {
+	for (int i = 0; i < n; i++) {
+		cout << i + 1 << ".elemani girin = ";
+		cin >> arr[i];
+	}
+	return 0;
+}
+int showarray(int arr[], int n) {
+	cout << "\nDizi elemanlari ve adresleri\n";
+	for (int i = 0; i < n; ++i) {
+		cout << "x[" << i << "] = " << arr[i] << ", adres = " << &arr[i] << endl;
+	}
+	return 0;
+}
+
 
 int main()
 {
@@ -10,14 +25,19 @@ int main()
 	cout << "dizinin boyutunu giriniz = ";
 	cin >> n;
 	int *arr = new int[n];
+	tarray(arr, n);
+	showarray(arr, n);
+	/*
 	for (int i = 0; i < n; i++) {
 		cout << i+1 << ".elemani girin = ";
 		cin >> arr[i];
 	}
-	cout << "\nDizi elemanlari ve adresleri\n";
+	*/
+	/*cout << "\nDizi elemanlari ve adresleri\n";
 	for (int i = 0; i < n; ++i) {
 		cout << "x[" << i << "] = " << arr[i] << ", adres = " << &arr[i] << endl;
 	}
+	*/
 	return 0;
 }
 
