@@ -1,0 +1,18 @@
+# Visual Studio ve build dosyalari
+.vs/
+x64/
+Desktop/
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.ipch
+*.sdf
+
+# Diger build dosyalari
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.ilk
+*.pdb
+*.obj
